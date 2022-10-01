@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.openosrs:deobfuscator:1.5.39-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/openosrs/deobfuscator/1.5.39-SNAPSHOT/deobfuscator-1.5.39-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/openosrs/deobfuscator/1.5.39-SNAPSHOT/deobfuscator-1.5.39-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/openosrs/deobfuscator/1.5.39-SNAPSHOT/deobfuscator-1.5.39-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

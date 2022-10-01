@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="runescape-api" />
+        <module name="injection-annotations (1)" />
+        <module name="injector-plugin (9)" />
+        <module name="cache-client" />
+        <module name="injector-plugin (7)" />
+        <module name="injector-plugin (5)" />
+        <module name="cache (1)" />
+        <module name="rxrelay" />
+        <module name="injector-plugin (14)" />
+        <module name="injector-plugin (3)" />
+        <module name="injector-plugin (12)" />
+        <module name="injector-plugin (1)" />
+        <module name="injector-plugin (10)" />
+        <module name="protocol" />
+        <module name="runelite-api (1)" />
+        <module name="runelite-api (3)" />
+        <module name="runelite-api (5)" />
+        <module name="script-assembler-plugin (1)" />
+        <module name="pf4j" />
+        <module name="script-assembler-plugin" />
+        <module name="rxrelay (1)" />
+        <module name="injector-plugin" />
+        <module name="cache" />
+        <module name="protocol-api" />
+        <module name="injector-plugin (8)" />
+        <module name="injector-plugin (6)" />
+        <module name="injection-annotations" />
+        <module name="oprs-script-assembler (1)" />
+        <module name="injector-plugin (4)" />
+        <module name="injector-plugin (15)" />
+        <module name="http-api" />
+        <module name="injector-plugin (2)" />
+        <module name="injector-plugin (13)" />
+        <module name="deobfuscator (1)" />
+        <module name="injector-plugin (11)" />
+        <module name="deobfuscator" />
+        <module name="runelite-api (2)" />
+        <module name="runelite-api (4)" />
+        <module name="oprs-script-assembler" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cache" target="1.5" />
+      <module name="cache (1)" target="1.5" />
+      <module name="cache-client" target="1.5" />
+      <module name="com.openosrs.injector.gradle.plugin" target="1.5" />
+      <module name="com.openosrs.injector.gradle.plugin (1)" target="1.5" />
+      <module name="com.openosrs.injector.gradle.plugin (10)" target="1.5" />
+      <module name="com.openosrs.injector.gradle.plugin (2)" target="1.5" />
+      <module name="com.openosrs.injector.gradle.plugin (3)" target="1.5" />
+      <module name="com.openosrs.injector.gradle.plugin (4)" target="1.5" />
+      <module name="com.openosrs.injector.gradle.plugin (5)" target="1.5" />
+      <module name="com.openosrs.injector.gradle.plugin (6)" target="1.5" />
+      <module name="com.openosrs.injector.gradle.plugin (7)" target="1.5" />
+      <module name="com.openosrs.injector.gradle.plugin (8)" target="1.5" />
+      <module name="com.openosrs.injector.gradle.plugin (9)" target="1.5" />
+      <module name="deobfuscator" target="1.5" />
+      <module name="deobfuscator (1)" target="1.5" />
+      <module name="fernflower" target="1.5" />
+      <module name="http-api" target="1.5" />
+      <module name="injection-annotations" target="1.5" />
+      <module name="injection-annotations (1)" target="1.5" />
+      <module name="injector-plugin" target="1.5" />
+      <module name="injector-plugin (1)" target="1.5" />
+      <module name="injector-plugin (10)" target="1.5" />
+      <module name="injector-plugin (11)" target="1.5" />
+      <module name="injector-plugin (12)" target="1.5" />
+      <module name="injector-plugin (13)" target="1.5" />
+      <module name="injector-plugin (14)" target="1.5" />
+      <module name="injector-plugin (15)" target="1.5" />
+      <module name="injector-plugin (2)" target="1.5" />
+      <module name="injector-plugin (3)" target="1.5" />
+      <module name="injector-plugin (4)" target="1.5" />
+      <module name="injector-plugin (5)" target="1.5" />
+      <module name="injector-plugin (6)" target="1.5" />
+      <module name="injector-plugin (7)" target="1.5" />
+      <module name="injector-plugin (8)" target="1.5" />
+      <module name="injector-plugin (9)" target="1.5" />
+      <module name="oprs-script-assembler" target="1.5" />
+      <module name="oprs-script-assembler (1)" target="1.5" />
+      <module name="pf4j" target="1.5" />
+      <module name="protocol" target="1.5" />
+      <module name="protocol-api" target="1.5" />
+      <module name="runelite-api (1)" target="1.5" />
+      <module name="runelite-api (2)" target="1.5" />
+      <module name="runelite-api (3)" target="1.5" />
+      <module name="runelite-api (4)" target="1.5" />
+      <module name="runelite-api (5)" target="1.5" />
+      <module name="runescape-api" target="1.5" />
+      <module name="rxrelay" target="1.8" />
+      <module name="rxrelay (1)" target="11" />
+      <module name="script-assembler-plugin" target="1.5" />
+      <module name="script-assembler-plugin (1)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

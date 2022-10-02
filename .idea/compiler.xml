@@ -36,7 +36,6 @@
         <module name="oprs-script-assembler (1)" />
         <module name="injector-plugin (4)" />
         <module name="injector-plugin (15)" />
-        <module name="http-api" />
         <module name="injector-plugin (2)" />
         <module name="injector-plugin (13)" />
         <module name="deobfuscator (1)" />

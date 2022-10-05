@@ -1,61 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="MavenProjectsManager">
-    <option name="originalFiles">
-      <list>
-        <option value="$PROJECT_DIR$/com/openosrs/rs/runescape-api/1.5.39-SNAPSHOT/runescape-api-1.5.39-SNAPSHOT.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/pf4j/3.3.0-SNAPSHOT/pf4j-3.3.0-SNAPSHOT.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/cache/4.31.1/cache-4.31.1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/cache/4.31.2/cache-4.31.2.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/http-api/1.6.3-SNAPSHOT/http-api-1.6.3-20200122.103526-1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector/com.openosrs.injector.gradle.plugin/1.0.0/com.openosrs.injector.gradle.plugin-1.0.0.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector/com.openosrs.injector.gradle.plugin/1.0.1/com.openosrs.injector.gradle.plugin-1.0.1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector/com.openosrs.injector.gradle.plugin/1.0.2/com.openosrs.injector.gradle.plugin-1.0.2.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector/com.openosrs.injector.gradle.plugin/1.1.0/com.openosrs.injector.gradle.plugin-1.1.0.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector/com.openosrs.injector.gradle.plugin/1.1.3/com.openosrs.injector.gradle.plugin-1.1.3.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector/com.openosrs.injector.gradle.plugin/1.1.5/com.openosrs.injector.gradle.plugin-1.1.5.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector/com.openosrs.injector.gradle.plugin/1.1.6/com.openosrs.injector.gradle.plugin-1.1.6.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector/com.openosrs.injector.gradle.plugin/1.0.2.3/com.openosrs.injector.gradle.plugin-1.0.2.3.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector/com.openosrs.injector.gradle.plugin/1.0.3.0/com.openosrs.injector.gradle.plugin-1.0.3.0.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector/com.openosrs.injector.gradle.plugin/1.0.3.1/com.openosrs.injector.gradle.plugin-1.0.3.1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector/com.openosrs.injector.gradle.plugin/1.0.3.2/com.openosrs.injector.gradle.plugin-1.0.3.2.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/protocol/1.0-SNAPSHOT/protocol-1.0-20200122.185823-1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/rxrelay3/rxrelay/3.0.0-SNAPSHOT/rxrelay-3.0.0-SNAPSHOT.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/rxrelay3/rxrelay/3.0.1-SNAPSHOT/rxrelay-3.0.1-SNAPSHOT.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/cache-client/1.0-SNAPSHOT/cache-client-1.0-20200122.192122-1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/deobfuscator/4.31.1/deobfuscator-4.31.1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/deobfuscator/4.31.2/deobfuscator-4.31.2.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/protocol-api/1.0-SNAPSHOT/protocol-api-1.0-20200122.111001-1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/runelite-api/1.6.3-SNAPSHOT/runelite-api-1.6.3-20200122.103526-1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/runelite-api/1.6.3-SNAPSHOT/runelite-api-1.6.3-20200122.103842-2.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/runelite-api/1.6.3-SNAPSHOT/runelite-api-1.6.3-20200122.103842-3.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/runelite-api/1.6.3-SNAPSHOT/runelite-api-1.6.3-20200122.103842-4.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/runelite-api/1.6.3-SNAPSHOT/runelite-api-1.6.3-20200122.103842-5.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.0.0/injector-plugin-1.0.0.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.0.1/injector-plugin-1.0.1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.0.2/injector-plugin-1.0.2.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.1.0/injector-plugin-1.1.0.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.1.2/injector-plugin-1.1.2.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.1.3/injector-plugin-1.1.3.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.1.5/injector-plugin-1.1.5.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.1.6/injector-plugin-1.1.6.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/2.0.0/injector-plugin-2.0.0.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/2.0.1/injector-plugin-2.0.1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/2.0.2/injector-plugin-2.0.2.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/2.0.3/injector-plugin-2.0.3.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.0.2.3/injector-plugin-1.0.2.3.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.0.3.0/injector-plugin-1.0.3.0.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.0.3.1/injector-plugin-1.0.3.1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injector-plugin/1.0.3.2/injector-plugin-1.0.3.2.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/injection-annotations/1.1/injection-annotations-1.1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/oprs-script-assembler/1.0.0/oprs-script-assembler-1.0.0.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/oprs-script-assembler/1.0.1/oprs-script-assembler-1.0.1.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/script-assembler-plugin/1.0.0/script-assembler-plugin-1.0.0.pom" />
-        <option value="$PROJECT_DIR$/com/openosrs/script-assembler-plugin/1.0.1/script-assembler-plugin-1.0.1.pom" />
-        <option value="$PROJECT_DIR$/net/runelite/fernflower/07082019/fernflower-07082019.pom" />
-      </list>
-    </option>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
 </project>

@@ -56,15 +56,7 @@
           "group": "com.google.inject",
           "module": "guice",
           "version": {
-            "requires": "4.1.0"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "guice",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "no_aop"
-            }
+            "requires": "5.0.1"
           }
         },
         {

@@ -28,10 +28,10 @@
           "name": "http-api-4.10.0.jar",
           "url": "http-api-4.10.0.jar",
           "size": 158841,
-          "sha512": "e01267ff1c30d3fefad2855fe22b4ec78945eb98232262bc496295ad4a20b4742a15c4b7ad7b10d1a734683fbdf4476e40b0cfdb09292700a292fef778a63d00",
-          "sha256": "68dc5764feaf99d6bf249c880c09a53b1bd0add7e236a16708ecf8d4a33ce6f5",
-          "sha1": "2c5c581bdf44c7217991cf085ebb4fc68e93ed21",
-          "md5": "a594a1317a4d5a9ab27aa66c221d4ff5"
+          "sha512": "f671dee44c39ceed7df70eed4d36637a027c4a4c19a83c751c03cac577b9e4ffa8d810fd39bcd3c7a69b075d1832a4f978f03e97e929a468ed21b1f9f778dd0c",
+          "sha256": "ae0459b2ba16e8dd96d7d8e6695d523ebbfa6d5239434eacec0eafe138334fdc",
+          "sha1": "d0d4c9911688e9ff5c6099a3bd5291c0e65a3d26",
+          "md5": "b38c2687de3f86db8b670b4cc3c8e7c7"
         }
       ]
     },
@@ -86,6 +86,13 @@
           "version": {
             "requires": "1.7.12"
           }
+        },
+        {
+          "group": "com.google.inject",
+          "module": "guice",
+          "version": {
+            "requires": "5.0.1"
+          }
         }
       ],
       "files": [
@@ -93,10 +100,10 @@
           "name": "http-api-4.10.0.jar",
           "url": "http-api-4.10.0.jar",
           "size": 158841,
-          "sha512": "e01267ff1c30d3fefad2855fe22b4ec78945eb98232262bc496295ad4a20b4742a15c4b7ad7b10d1a734683fbdf4476e40b0cfdb09292700a292fef778a63d00",
-          "sha256": "68dc5764feaf99d6bf249c880c09a53b1bd0add7e236a16708ecf8d4a33ce6f5",
-          "sha1": "2c5c581bdf44c7217991cf085ebb4fc68e93ed21",
-          "md5": "a594a1317a4d5a9ab27aa66c221d4ff5"
+          "sha512": "f671dee44c39ceed7df70eed4d36637a027c4a4c19a83c751c03cac577b9e4ffa8d810fd39bcd3c7a69b075d1832a4f978f03e97e929a468ed21b1f9f778dd0c",
+          "sha256": "ae0459b2ba16e8dd96d7d8e6695d523ebbfa6d5239434eacec0eafe138334fdc",
+          "sha1": "d0d4c9911688e9ff5c6099a3bd5291c0e65a3d26",
+          "md5": "b38c2687de3f86db8b670b4cc3c8e7c7"
         }
       ]
     }
